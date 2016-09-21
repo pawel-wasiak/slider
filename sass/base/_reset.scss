@@ -1,0 +1,31 @@
+body, html
+{
+   @include resetPaddingMargin;
+}
+
+ol, ul 
+{
+   list-style: none;
+   @include resetPaddingMargin;
+}
+
+a
+{
+   text-decoration: none;
+   color: $whiteColor;
+
+   &:active{
+      text-decoration: none;
+      color: $whiteColor;
+   }
+
+   &:hover{
+      text-decoration: none;
+      color: $whiteColor;
+   }
+
+   &:active{
+      text-decoration: none;
+      color: $whiteColor;
+   }
+}

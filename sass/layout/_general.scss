@@ -1,0 +1,16 @@
+%clearfix {
+    @include clearfix;
+}
+
+// styles
+
+body
+{
+	font-size: 16px;
+	color: #000;
+}
+
+html, body
+{
+	height: 100%;
+}

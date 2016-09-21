@@ -1,0 +1,5 @@
+$(function () {
+	
+	$(".slider-wrapper").slider();
+
+});
