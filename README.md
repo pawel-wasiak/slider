@@ -1,4 +1,4 @@
-# RANDOM QUOTES
+# SLIDER
 
 ### HOW TO USE
 
