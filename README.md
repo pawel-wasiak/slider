@@ -71,4 +71,4 @@ IV. Slider options.
 </script>
 ```
 
-### [Live preview](https://pawelw1993.github.io/slider.github.io/)
+### [Live preview](https://pawelw1993.github.io/slider/)
